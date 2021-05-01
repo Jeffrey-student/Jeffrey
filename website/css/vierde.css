@@ -1,0 +1,10 @@
+body{
+	background-color: #808080;
+}
+h1{background-color:lightblue;
+	padding:1px;
+	border-left:2px #202020 solid;
+	border-top:3px #202020 solid;
+	border-right:2px #202020 solid;
+	border-bottom:3px #202020 solid;
+	text-align:center;}
